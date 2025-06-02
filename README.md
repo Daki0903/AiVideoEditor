@@ -56,3 +56,50 @@ Everyday Users: Turn family videos into shareable highlight reels with minimal e
 
 Summary
 The AI Video Highlight Editor empowers users to transform lengthy video footage into concise, impactful highlight compilations through an intuitive, emoji-enhanced interface. Its blend of audio-visual AI techniques and seamless user experience makes video editing accessible to all skill levels — saving time while delivering professional-grade results. 🎬✨
+
+
+How to download?
+Download the Application
+
+For Windows users, download the ready-to-run .exe installer or portable version from the official release page.
+
+For other platforms (Linux/macOS) or if you want to run from source, download the source code .zip or clone the GitHub repository.
+
+Windows (.exe) Installation 🪟
+
+Double-click the .exe file to start the installer or launch the portable app directly.
+
+Follow the on-screen prompts if installing.
+
+Once installed or launched, the app will open with the graphical interface.
+
+Running from Source (Python required) 🐍
+
+Make sure you have Python 3.7+ installed on your system.
+
+Install the required dependencies using the command:
+
+nginx
+CopyEdit
+pip install -r requirements.txt 
+Run the main script:
+
+css
+CopyEdit
+python main.py 
+The app window should appear, ready to use.
+
+Using the App 🎬
+
+Select your input video file.
+
+Choose the folder where you want the highlight video saved.
+
+Pick the video quality (Low, Medium, High).
+
+Click Generate Highlights and wait for the process to finish.
+
+Find your highlight video in the selected output folder.
+
+Support & Feedback 💬
+Visit itch.io: https://davy112.itch.io/ai-video-editor
